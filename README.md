@@ -1,0 +1,1 @@
+# responsive-amazon-coupon-widget
